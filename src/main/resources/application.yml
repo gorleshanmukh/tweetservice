@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+amazon:
+  access:
+    key: AKIA4DTW67MFUEMKCZME
+    secret-key: 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
+  region: ap-south-1
+  end-point:
+    url: dynamodb.ap-south-1.amazonaws.com
+
+#mongodb:
+#   host: mongodb://localhost:27017
+#   dataBaseName: tweetapp
